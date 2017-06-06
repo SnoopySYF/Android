@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="TextView0">This is TextView</string>
+    <string name="Button0">Photo</string>
+    <string name="Button1">Show</string>
+    <string name="EditText0">Type something here</string>
+    <string name="title_back">Back</string>
+    <string name="title_TextView">Title Text</string>
+    <string name="title_edit">Edit</string>
+</resources>
